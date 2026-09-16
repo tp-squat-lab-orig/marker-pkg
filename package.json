@@ -1,0 +1,7 @@
+{
+  "name": "@gaijindev50/tp-squat-marker",
+  "version": "0.0.1",
+  "description": "SECURITY RESEARCH TEST PACKAGE - npm trusted-publishing rename-squat validation. Do not install.",
+  "license": "MIT",
+  "publishConfig": { "access": "public" }
+}
